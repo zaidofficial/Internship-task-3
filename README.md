@@ -1,5 +1,4 @@
 # form-validation
-# Form Validation System
 
 A client-side form validation system that ensures proper data entry before submission.
 
